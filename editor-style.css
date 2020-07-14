@@ -1,0 +1,142 @@
+/*
+Theme Name: The Gap
+Description: Used to style the TinyMCE editor.
+*/
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    clear: both;
+    font-weight: 900;
+    margin: 56px 0 28px;
+}
+
+h1 {
+  font-size: 32px;
+  line-height: 1.223;
+ 
+  }
+
+h2 {
+  font-size: 28px;
+  line-height: 1.259;
+
+  }
+
+h3 {
+  font-size: 24px;
+  line-height: 1.279;
+  
+  }
+
+h4 {
+  font-size: 22px;
+  line-height: 1.320;
+  font-weight: 700;
+
+}
+
+h5 {
+  font-size: 20px;
+  line-height: 1.345;
+  font-weight: 600;
+  
+}
+
+h6 {
+  font-size: 18px;
+  line-height: 1.355; 
+   font-weight: 600;
+  
+}
+h1:first-child,
+h2:first-child,
+h3:first-child,
+h4:first-child,
+h5:first-child,
+h6:first-child {
+    margin-top: 0;
+}
+
+p {
+    margin: 0 0 20px;
+	font-size:90%;
+}
+
+b,
+strong {
+    font-weight: 700;
+}
+
+dfn,
+cite,
+em,
+i {
+    font-style: italic;
+}
+
+blockquote {
+
+	border-left: 4px solid #717171;
+	color: #717171;
+	font-size: 16px;
+	font-style: italic;
+	line-height: 28px;
+	letter-spacing: 0.5px;
+	margin-bottom: 40px;
+	padding: 20px 20px 0;
+}
+
+blockquote>blockquote {
+    margin-left: 0;
+}
+
+blockquote p {
+    margin-bottom: 30px;
+}
+
+blockquote>p:last-child {
+    margin-bottom: 0;
+}
+
+
+hr {
+    background-color: #eaeaea;
+    border: 0;
+    height: 1px;
+    margin-bottom: 28px;
+}
+
+ul,
+ol {
+    margin: 0 0 28px 28px;
+    padding: 0;
+}
+
+ul {
+    list-style: disc;
+}
+
+
+
+li>ul,
+li>ol {
+    margin: 0 0 0 23px;
+}
+
+dl {
+    margin: 0 0 26px;
+}
+
+dt {
+    font-weight: bold;
+}
+
+dd {
+    margin: 0 0 26px;
+}
+
+

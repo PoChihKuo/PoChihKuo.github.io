@@ -1,0 +1,15 @@
+
+.nl1-row-title{
+    display: block;
+    float: left;
+    width: 200px;
+}
+ 
+.nl-control-input{
+    margin-top:5px;
+}
+ 
+
+input#page-image {
+	  margin-top:5px;
+}

@@ -1,0 +1,158 @@
+
+/* Slider Navigation */
+
+.slick-prev,
+.slick-next {
+    font-size: 0;
+    position: absolute;
+    
+    color: #fff;
+    border: 0;
+    background: none;
+    z-index: 1;
+}
+
+.slick-prev:after {
+	  content: "\f104";
+    font: 40px/1 'FontAwesome';
+}
+
+.slick-next:after {
+	   content: "\f105";
+     font: 40px/1 'FontAwesome';
+}
+
+.slick-prev:hover:after,
+.slick-next:hover:after {
+    color: #7e7e7e;
+}
+
+
+
+/****/
+.product-slider .slick-prev,.product-slider .slick-next {
+	 top: 45%;
+	  padding-left:10px;
+	 padding-right:10px;
+}
+.product-slider .slick-prev {
+	 left:10px;
+	 text-align: left;
+}
+.product-slider .slick-next {
+	right:10px;
+	text-align: right;
+}
+/****/
+
+.brand-items-container .slick-prev,.brand-items-container .slick-next {
+	 top: 45%;
+	  padding-left:10px;
+	 padding-right:10px;
+}
+.brand-items-container .slick-prev {
+	 left:10px;
+	 text-align: left;
+}
+.brand-items-container .slick-next {
+	right:10px;
+	text-align: right;
+}
+
+/****/
+
+.product_list_widget .slick-prev,.product_list_widget .slick-next {
+	 top: 45%;
+	  padding-left:10px;
+	 padding-right:10px;
+}
+.product_list_widget .slick-prev {
+	 left:10px;
+	 text-align: left;
+}
+.product_list_widget .slick-next {
+	right:10px;
+	text-align: right;
+}
+
+/******/
+
+.slick-prev.slick-arrow.slick-disabled {
+	display:none;
+}
+/* Slider Dots */
+.slick-dotted.slick-slider
+{
+    margin-bottom: 30px;
+}
+
+.slick-dots
+{
+    position: absolute;
+    bottom: -25px;
+
+    display: block;
+
+    width: 100%;
+    padding: 0;
+    margin: 0;
+
+    list-style: none;
+
+    text-align: center;
+}
+.slick-dots li
+{
+    position: relative;
+
+    display: inline-block;
+
+    width: 20px;
+    height: 20px;
+    margin: 0 5px;
+    padding: 0;
+
+    cursor: pointer;
+}
+
+.product-slider .slick-dots {
+	display: flex;
+	justify-content: center;
+	bottom:15px;
+	margin: 0;
+	padding: 1rem 0;
+	
+	list-style-type: none;
+}
+.product-slider .slick-dots	li {
+			margin: 0 0.25rem;
+		}
+	
+.product-slider .slick-dots li button {
+			display: block;
+			width: 1rem;
+			height: 1rem;
+			padding: 0;
+			
+			border: none;
+			border-radius: 100%;
+			background-color: transparent!important;
+			border:2px solid #fff;
+			
+			text-indent: -9999px;
+}
+	
+.product-slider .slick-dots li.slick-active button {
+			background-color: #fff!important;
+}
+.slick-dots li button:hover,
+.slick-dots li button:focus
+{
+    outline: none;
+}
+.slick-dots li button:hover:before,
+.slick-dots li button:focus:before
+{
+    opacity: 1;
+}
+
