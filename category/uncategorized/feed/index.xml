@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Human-Centered Machine Intelligence Lab</description>
-	<lastBuildDate>Thu, 15 Sep 2022 23:17:16 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 16 Sep 2022 22:05:49 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,32 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>AI can recognize race!</title>
+		<link>./../../../2022/09/16/ai-can-recognize-race/index.html</link>
+					<comments>./../../../2022/09/16/ai-can-recognize-race/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[kuopc]]></dc:creator>
+		<pubDate>Fri, 16 Sep 2022 22:04:04 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=509</guid>
+
+					<description><![CDATA[https://www.nthu.edu.tw/hotNews/content/1089]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="AI也會種族歧視？清大研究揭醫學倫理隱憂【發現科學】" width="960" height="540" src="https://www.youtube.com/embed/ES1cfztiNbY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p><a href="https://www.nthu.edu.tw/hotNews/content/1089">https://www.nthu.edu.tw/hotNews/content/1089</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2022/09/16/ai-can-recognize-race/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>王瑞恩榮獲科技部110年度大專學生研究計畫創作獎</title>
 		<link>./../../../2022/09/15/%e7%8e%8b%e7%91%9e%e6%81%a9%e6%a6%ae%e7%8d%b2%e7%a7%91%e6%8a%80%e9%83%a8110%e5%b9%b4%e5%ba%a6%e5%a4%a7%e5%b0%88%e5%ad%b8%e7%94%9f%e7%a0%94%e7%a9%b6%e8%a8%88%e7%95%ab%e5%89%b5%e4%bd%9c%e7%8d%8e/index.html</link>
 					<comments>./../../../2022/09/15/%e7%8e%8b%e7%91%9e%e6%81%a9%e6%a6%ae%e7%8d%b2%e7%a7%91%e6%8a%80%e9%83%a8110%e5%b9%b4%e5%ba%a6%e5%a4%a7%e5%b0%88%e5%ad%b8%e7%94%9f%e7%a0%94%e7%a9%b6%e8%a8%88%e7%95%ab%e5%89%b5%e4%bd%9c%e7%8d%8e/index.html#respond</comments>
@@ -234,26 +260,6 @@
 					
 					<wfw:commentRss>./../../../2020/07/11/new-members/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Hello world!</title>
-		<link>./../../../2020/07/06/hello-world/index.html</link>
-					<comments>./../../../2020/07/06/hello-world/index.html#comments</comments>
-		
-		<dc:creator><![CDATA[kuopc]]></dc:creator>
-		<pubDate>Mon, 06 Jul 2020 21:42:48 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">./../../../index.html?p=1</guid>
-
-					<description><![CDATA[Welcome to HMI Lab!]]></description>
-										<content:encoded><![CDATA[
-<p>Welcome to HMI Lab!</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>./../../../2020/07/06/hello-world/feed/index.html</wfw:commentRss>
-			<slash:comments>1</slash:comments>
 		
 		
 			</item>
